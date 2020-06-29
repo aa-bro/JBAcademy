@@ -1,2 +1,2 @@
 # JBAcademy
-This repo include some code which was written during learing of python on online platform JetBrains Academy.
+This repo includes some code which was written during learing of python on online platform JetBrains Academy.
